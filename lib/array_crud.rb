@@ -1,4 +1,4 @@
-def create_an_empty_array
+favorite_video_games = ["NBA2K", "God of War", "Zelda"]
   
 end
 
