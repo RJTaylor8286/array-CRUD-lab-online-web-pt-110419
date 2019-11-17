@@ -2,7 +2,6 @@ favorite_video_games = ["NBA2K", "God of War", "Zelda"]
 end
 
 favorite_video_games << "Megaman"
-  
 end
 
 def add_element_to_start_of_array(array, element)
