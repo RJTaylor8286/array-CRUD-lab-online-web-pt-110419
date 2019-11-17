@@ -10,12 +10,10 @@ end
 mario = favorite_video_games.pop
 end
 
-def remove_element_from_start_of_array(array)
-  
+favorite_video_games.shift  
 end
 
-def retrieve_element_from_index(array, index_number)
-  
+favorite_video_games  
 end
 
 def retrieve_first_element_from_array(array)
