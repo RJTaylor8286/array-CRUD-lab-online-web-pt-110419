@@ -13,13 +13,11 @@ end
 favorite_video_games.shift  
 end
 
-favorite_video_games  
+favorite_video_games[2]  
 end
 
-def retrieve_first_element_from_array(array)
-  
+favorite_video_games[0]
 end
 
-def retrieve_last_element_from_array(array)
-  
+favorite_video_games[-1]  
 end
