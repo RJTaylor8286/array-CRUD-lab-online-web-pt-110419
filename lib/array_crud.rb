@@ -7,8 +7,7 @@ end
 favorite_video_games.unshift "Mario"
 end
 
-def remove_element_from_end_of_array(array)
-  
+mario = favorite_video_games.pop
 end
 
 def remove_element_from_start_of_array(array)
